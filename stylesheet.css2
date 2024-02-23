@@ -1,0 +1,51 @@
+.header {
+  background-color: black;
+  display: block; 
+  overflow: auto;
+}
+.header-content {
+  padding: ;
+}
+.header-left {
+  float: left;
+  margin: 0px 16px;
+  display: block;
+}
+.header-right {
+float: right;
+margin: 0px 8px;
+}
+.fas {
+  padding: 0px 8px;
+  margin: 0px 8px;
+}
+.header2 {
+  background-color: black;
+  overflow: auto;
+}
+.header2-left {
+  color: white;
+  margin-top: 20px;
+  margin-left: 16px;
+}
+.header2-right {
+  float: right;
+  transition: all 0.5s; 
+}
+.header2-right:hover {
+  background-color: rgba(rgba(1, 118, 214), 0.5);
+}
+.header2-right a {
+  background: rgba( rgba(1, 118, 214), 0.3);
+  color: white;
+  display: block;
+}
+body {
+  text-align: center;
+  overflow: auto;
+  background-color: black;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+}
